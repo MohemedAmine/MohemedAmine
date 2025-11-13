@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/My%20CV-0b8043?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="YOUR_CV_LINK"><img src="[https://img.shields.io/badge/My%20CV-0b8043?style=for-the-badge&logo=googledrive&logoColor=white](https://drive.google.com/file/d/12fTqMhLuDsACtB9r1LRSZ1L967SzdNls/view?usp=sharing)" /></a>
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/My%20Portfolio-003399?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
