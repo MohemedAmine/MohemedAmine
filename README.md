@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK"><img src="[https://img.shields.io/badge/My%20CV-0b8043?style=for-the-badge&logo=googledrive&logoColor=white](https://drive.google.com/file/d/12fTqMhLuDsACtB9r1LRSZ1L967SzdNls/view?usp=sharing)" /></a>
+  <a href="https://drive.google.com/file/d/12fTqMhLuDsACtB9r1LRSZ1L967SzdNls/view?usp=sharing"><img src="https://img.shields.io/badge/My%20CV-0b8043?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/My%20Portfolio-003399?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
@@ -24,11 +24,10 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURUSERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOURUSERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/YOURUSERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/YOURUSERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/mohamed-amine-ouled-said-900720364]"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedamineouledsaid10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/MohamedAmine_OS"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mohamedamineouladsaid"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,5 +40,3 @@
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
-
----
